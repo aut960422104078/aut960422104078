@@ -3,7 +3,7 @@
 Hi there 👋 I'm Ribisha. J
 
 🎓 B.E Computer Science Graduate | 2022-2026 Passout  
-💻 Aspiring Java Developer | Software Engineer Fresher  
+💻 Aspiring software Developer | Software Engineer Fresher  
 ☕ **Tech Stack:** Core Java, OOP, Collections, JDBC, MySQL, Git  
 🤖 **Final Year Project:** Federated Explainable AI for Alzheimer's Prediction using Multi-Modal Data  
    - Tech: Python, TensorFlow, CNN, Federated Learning, SHAP
